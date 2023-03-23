@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Final_Eve_07.Models.Platform>
+@{
+    ViewBag.Title = "Index";
+}
+<dv class="row">
+    <div class="col-12">
+        <h3>Platforms</h3>
+        @Html.ActionLink("Create", "Create", "Platform", new { }, new { @class = "btn btn-success" })
+        <table class="table table-bordered table-striped">
+            <thead class="table-striped">
+                <tr>
+                    <th>Sensors</th>
+                    <th>Chipset</th>
+                    <th>CPU</th>
+                    <th>GPU</th>
+                    <th>Manage</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var t in Model)
+                {
+                    <tr id="tr_@t.PlatformId">
+                        <td>@t.AdditionalFeature.Sensors</td>
+                        <td>@t.Chipset</td>
+                        <td>@t.CPU</td>
+                        <td>@t.GPU</td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", new { id = t.PlatformId }, new { @clas = "btn btn-success" })
+                            @Ajax.ActionLink("Delete", "Delete", new { id = t.PlatformId }, new AjaxOptions
+                  { HttpMethod = "Post", OnSuccess = "OnSuccess", Confirm = "Are you sure to Delete?" }, new { @clas = "btn btn-success" })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</dv>
+@section scripts{
+    <script src="~/Scripts/jquery-3.6.3.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script>
+        function OnSuccess(r) {
+            $("#tr_" + r).remove();
+        }
+    </script>
+}

@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Final_Eve_07.Models.AdditionalFeature>
+@{
+    ViewBag.Title = "Index";
+}
+
+<dv class="row">
+    <div class="col-12">
+        <h3>AdditionalFeature</h3>
+        @Html.ActionLink("Create", "Create", "AdditionalFeature", new { }, new { @class = "btn btn-success" })
+        <table class="table table-bordered table-striped">
+            <thead class="table-striped">
+                <tr>
+                    <th>Sensors</th>
+                    <th>Battery</th>
+                    <th>Video Support</th>
+                    <th>Company Name</th>
+                    <th>Manage</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var t in Model)
+                {
+                    <tr id="tr_@t.AdditionalFeatureId">
+                        <td>@t.Sensors</td>
+                        <td>@t.Battery</td>
+                        <td>@t.VideoSupport</td>
+                        <td>@t.SpeciFication.CompanyName</td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", new { id = t.AdditionalFeatureId }, new { @clas = "btn btn-success" })
+                            @Ajax.ActionLink("Delete", "Delete", new { id = t.AdditionalFeatureId }, new AjaxOptions
+                  { HttpMethod = "Post", OnSuccess = "OnSuccess", Confirm = "Are you sure to Delete?" }, new { @clas = "btn btn-success" })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</dv>
+@section scripts{
+    <script src="~/Scripts/jquery-3.6.3.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script>
+        function OnSuccess(r) {
+            $("#tr_" + r).remove();
+        }
+    </script>
+}

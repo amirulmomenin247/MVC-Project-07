@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Final_Eve_07.Models.SpeciFication>
+
+@{
+    ViewBag.Title = "Index";
+}
+<dv class="row">
+    <div class="col-12">
+        <h3>SpeciFication</h3>
+        <table class="table table-bordered table-striped">
+            <thead class="table-striped">
+                <tr>
+
+                    <th>CompanyName</th>
+                    <th>Camera</th>
+                    <th>Display</th>
+                    <th>RAM</th>
+                    <th>Manage</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var t in Model)
+                {
+                    <tr id="tr_@t.SpeciFicationId">
+                        <td>@t.CompanyName</td>
+                        <td>@t.Camera</td>
+                        <td>@t.Display</td>
+                        <td>@t.RAM</td>
+
+                        <td>
+                            @Ajax.ActionLink("Delete", "Delete", new { id = t.SpeciFicationId }, new AjaxOptions
+                       { HttpMethod = "Post", OnSuccess = "OnSuccess", Confirm = "Are you sure to Delete?" }, new { @class = "btn btn-sm btn-outline-danger" })
+                        </td>
+                    </tr>
+
+
+                }
+            </tbody>
+        </table>
+    </div>
+</dv>
+@section scripts{
+    <script src="~/Scripts/jquery-3.6.3.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script>
+        function OnSuccess(r) {
+            $("#tr_" + r).remove();
+        }
+    </script>
+}
+
+

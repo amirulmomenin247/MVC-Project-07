@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Final_Eve_07.ViewModels.SpeciFicationViewModel>
+@{
+    ViewBag.Title = "SpeciFicationReports";
+
+}
+
+<div class="row">
+    <div class="col-12">
+        <h3>SpeciFication</h3>
+
+        <table class="table table-bordered">
+            <thead class="table-light">
+                <tr>
+
+                    <th>Phone Name</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var g in Model.GroupBy(x=>x.PhoneName).ToList())
+                {
+                    <tr>
+                        <td>
+                            @g.Key
+                        </td>
+
+                    </tr>
+                    <tr>
+                        <td>&nbsp;</td>
+                        <td colspan="6">
+                            <h4>SpeciFication</h4>
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th>Company Name</th>
+                                        <th>Camera</th>
+                                        <th>Display</th>
+                                        <th>RAM</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var q in g)
+                                    {
+                                        <tr>
+                                            <td>@q.CompanyName</td>
+                                            <td>@q.Camera</td>
+                                            <td>@q.Display</td>
+                                            <td>@q.RAM</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="col-12 text-center">
+        @Html.ActionLink("Convert & Down To PDF", "SpeciFicationPDF", "Report", new { }, new { @class = "btn btn-primary btn-sm" })
+         @Html.ActionLink("Convert & Down To Excel", "SpeciFicationExcel", "Report", new { }, new { @class = "btn btn-primary btn-sm" })
+    </div>
+</div>
+@section scripts {
+
+}
+
+

@@ -1,0 +1,80 @@
+﻿@model IEnumerable<Final_Eve_07.Models.Phone>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h3>Phone SpeciFication</h3>
+        <div class="d-flex justify-content-end mb-1">
+            @Html.ActionLink("Create", "Create", "Phone", new { }, new { @class = "btn btn-primary btn-sm" })
+        </div>
+        <table class="table table-bordered">
+            <thead class="table-light">
+                <tr>
+                    <th>Image</th>
+                    <th>Phone Name</th>
+                    <th>Launch Date</th>
+                    <th>Operating System</th>
+                    <th>Phone Price</th>
+                    <th>Available?</th>
+                    <th>Manage</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var c in Model)
+                {
+                    <tr id="tr_@c.PhoneId" style="vertical-align:middle">
+                        <th>
+                            <img src="~/Pictures/@c.Picture" style="width:40px" />
+                        </th>
+                        <td>@c.PhoneName</td>
+                        <td>@c.LaunchDate.ToString("yyyy-MM-dd")</td>
+                        <td>@c.OperatingSystem</td>
+                        <td>@c.PhonePrice.ToString("0.00")</td>
+                        <td>@(c.Available ? "Yes": "No")</td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", "Phone", new { id = c.PhoneId }, new { @class = "btn btn-primary btn-sm" })
+                            @Ajax.ActionLink("Delete", "Delete", new { id = c.PhoneId }, new AjaxOptions { Confirm = "Are You Sure", HttpMethod = "Post", OnSuccess = "onSuccess" },
+                           new { @class = "btn btn-danger btn-sm" })
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="6">
+                            <table class="table table-bordered">
+                                <thead class="bg-light">
+                                    <tr>
+                                        <th>CompanyName</th>
+                                        <th>Camera</th>
+                                        <th>Display</th>
+                                        <th>RAM</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var s in c.SpeciFications)
+                                    {
+                                        <tr>
+                                            <td>@s.CompanyName</td>
+                                            <td>@s.Camera</td>
+                                            <td>@s.Display</td>
+                                            <td>@s.RAM</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                }
+        </table>
+    </div>
+</div>
+@section scripts{
+    <script src="~/Scripts/jquery-3.6.3.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+
+    <script>
+        function onSuccess(r) {
+            $("#tr_" + r).remove();
+        }
+    </script>
+}

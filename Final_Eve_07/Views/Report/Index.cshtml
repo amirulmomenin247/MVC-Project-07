@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Final_Eve_07.Models.Phone>
+@{
+    ViewBag.Title = "Index";
+
+}
+
+<div class="row">
+    <div class="col-12">
+        <h3>Phone</h3>
+
+        <table class="table table-bordered">
+            <thead class="table-light">
+                <tr>
+                    <th></th>
+                    <th>Phone Name</th>
+                    <th>Launch Date</th>
+                    <th>Operating System</th>
+                    <th>Phone Price</th>
+                    <th>Available?</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var c in Model)
+                {
+                    <tr id="tr_@c.PhoneId" style="vertical-align:middle">
+                        <td>
+                            <img class="rounded-circle" src="~/Pictures/@c.Picture" style="width:40px" />
+                        </td>
+                        <td>@c.PhoneName</td>
+                        <td>@c.LaunchDate.ToString("yyyy-MM-dd")</td>
+                        <td>@c.OperatingSystem</td>
+                        <td>@c.PhonePrice.ToString("0.00")</td>
+                        <td>@(c.Available ? "Yes": "No")</td>
+
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="col-12 text-center">
+        @Html.ActionLink("Convert & Down To PDF", "PhonePDF", "Report", new { }, new { @class = "btn btn-primary btn-sm" })
+        @Html.ActionLink("Convert & Down To Excel", "PhoneExcel", "Report", new { }, new { @class = "btn btn-primary btn-sm" })
+    </div>
+</div>

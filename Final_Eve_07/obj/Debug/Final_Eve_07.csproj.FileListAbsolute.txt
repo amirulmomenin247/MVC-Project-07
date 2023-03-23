@@ -1,0 +1,759 @@
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll.config
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.pdb
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe.config
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.rsp
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe.config
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.rsp
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Managed.Core.targets
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Buffers.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Collections.Immutable.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Memory.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Numerics.Vectors.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Reflection.Metadata.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe.config
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.rsp
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe.config
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\EntityFramework.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Web.Infrastructure.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\Owin.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\EntityFramework.xml
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.xml
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.xml
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.xml
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.xml
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.xml
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.xml
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.xml
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.xml
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.xml
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.xml
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.xml
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.AssemblyReference.cache
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CoreCompileInputs.cache
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CopyComplete
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.dll
+D:\1270321\EVE-07-Final\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.pdb
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll.config
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.pdb
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe.config
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.rsp
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe.config
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.rsp
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Managed.Core.targets
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Buffers.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Collections.Immutable.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Memory.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Numerics.Vectors.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Reflection.Metadata.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe.config
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.rsp
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe.config
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\EntityFramework.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Web.Infrastructure.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Owin.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\EntityFramework.xml
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.xml
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.xml
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.xml
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.xml
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.xml
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.xml
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.xml
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.xml
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.xml
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.xml
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.xml
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.AssemblyReference.cache
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CoreCompileInputs.cache
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CopyComplete
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.dll
+H:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.pdb
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll.config
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.pdb
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe.config
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.rsp
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe.config
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.rsp
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Managed.Core.targets
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Buffers.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Collections.Immutable.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Memory.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Numerics.Vectors.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Reflection.Metadata.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Threading.Tasks.Extensions.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe.config
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.rsp
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe.config
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\EntityFramework.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Web.Infrastructure.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Owin.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\EntityFramework.xml
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.xml
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.xml
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.xml
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.xml
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.xml
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.xml
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.xml
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.xml
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.xml
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.xml
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.xml
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.AssemblyReference.cache
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CoreCompileInputs.cache
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CopyComplete
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.dll
+J:\AmiR\M-08_(MVC.Core)\Final\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.pdb
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll.config
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.pdb
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe.config
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.rsp
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe.config
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.rsp
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Managed.Core.targets
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Buffers.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Collections.Immutable.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Memory.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Numerics.Vectors.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Reflection.Metadata.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe.config
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.rsp
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe.config
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\EntityFramework.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Web.Infrastructure.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\Owin.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\EntityFramework.xml
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.xml
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.xml
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.xml
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.xml
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.xml
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.xml
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.xml
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.xml
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.xml
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.xml
+D:\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.xml
+D:\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.AssemblyReference.cache
+D:\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CoreCompileInputs.cache
+D:\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CopyComplete
+D:\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.dll
+D:\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.pdb
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll.config
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.pdb
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe.config
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.rsp
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe.config
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.rsp
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Managed.Core.targets
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Buffers.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Collections.Immutable.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Memory.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Numerics.Vectors.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Reflection.Metadata.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe.config
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.rsp
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe.config
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\EntityFramework.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\Microsoft.Web.Infrastructure.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\Owin.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\EntityFramework.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.AssemblyReference.cache
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CoreCompileInputs.cache
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CopyComplete
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\New folder\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.pdb
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll.config
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.pdb
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe.config
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.rsp
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe.config
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.rsp
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Managed.Core.targets
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Buffers.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Collections.Immutable.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Memory.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Numerics.Vectors.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Reflection.Metadata.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Threading.Tasks.Extensions.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe.config
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.rsp
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe.config
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\EntityFramework.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\Microsoft.Web.Infrastructure.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\Owin.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\EntityFramework.xml
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.xml
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.xml
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.xml
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.xml
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.xml
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.xml
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.xml
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.xml
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.xml
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.xml
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.xml
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.AssemblyReference.cache
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CoreCompileInputs.cache
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CopyComplete
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.dll
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.pdb
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.Migrations.InitialCreate.resources
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.GenerateResource.cache
+J:\AmiR\M-08_(MVC.Core)\Final-EVE\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.Migrations.InitialCreate1.resources
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll.config
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.pdb
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Buffers.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Memory.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\EntityFramework.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\Owin.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\EntityFramework.xml
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.xml
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.xml
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.xml
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CopyComplete
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.dll
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.pdb
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.Migrations.InitialCreate.resources
+C:\Users\HP\Desktop\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.GenerateResource.cache
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll.config
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.pdb
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe.config
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.rsp
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe.config
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.rsp
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Managed.Core.targets
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Buffers.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Collections.Immutable.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Memory.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Numerics.Vectors.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Reflection.Metadata.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Threading.Tasks.Extensions.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe.config
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.rsp
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe.config
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\EntityFramework.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Web.Infrastructure.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Owin.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\EntityFramework.xml
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.xml
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.xml
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.xml
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.xml
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.xml
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.xml
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.xml
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.xml
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.xml
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.xml
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.xml
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.AssemblyReference.cache
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.Migrations.InitialCreate.resources
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.GenerateResource.cache
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CoreCompileInputs.cache
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CopyComplete
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.pdb
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.CrystalReports.Engine.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportSource.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.Shared.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+J:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\stdole.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll.config
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.pdb
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe.config
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.rsp
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe.config
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.rsp
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Managed.Core.targets
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Buffers.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Collections.Immutable.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Memory.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Numerics.Vectors.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Reflection.Metadata.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe.config
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.rsp
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe.config
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.CrystalReports.Engine.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportSource.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.Shared.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\EntityFramework.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Web.Infrastructure.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Owin.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\stdole.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\EntityFramework.xml
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.xml
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.xml
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.xml
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.xml
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.xml
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.xml
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.xml
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.xml
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.xml
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.xml
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.xml
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.AssemblyReference.cache
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.Migrations.InitialCreate.resources
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.GenerateResource.cache
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CoreCompileInputs.cache
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CopyComplete
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.dll
+H:\AmiR\M-08_(MVC.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.pdb
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll.config
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Final_Eve_07.pdb
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.exe.config
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csc.rsp
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.exe.config
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\csi.rsp
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.Managed.Core.targets
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Buffers.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Collections.Immutable.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Memory.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Numerics.Vectors.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Reflection.Metadata.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.exe.config
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\vbc.rsp
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\roslyn\VBCSCompiler.exe.config
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportSource.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.Shared.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\EntityFramework.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Web.Infrastructure.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Owin.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\stdole.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\EntityFramework.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\EntityFramework.SqlServer.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.Core.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\Microsoft.Owin.Security.Cookies.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Razor.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Deployment.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Webpages.Razor.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Helpers.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\bin\System.Web.Mvc.xml
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.AssemblyReference.cache
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.Migrations.InitialCreate.resources
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.GenerateResource.cache
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CoreCompileInputs.cache
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.csproj.CopyComplete
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.dll
+D:\1270321-AMIRUL MOMENIN\Module-08(Mvc.Core)\1270321\Final_Eve_07\Final_Eve_07\obj\Debug\Final_Eve_07.pdb
